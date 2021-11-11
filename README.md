@@ -36,3 +36,7 @@ shared_hosting/ <- Your root directory (not document root/public html folder).
     ├── index.php <- Change this file
     ├── robots.txt
     └── web.config
+
+
+
+https://gist.github.com/Repox/d63e2a173c5eb6f4d2ae4ad52ef7c2e9#file-appserviceprovider-php
